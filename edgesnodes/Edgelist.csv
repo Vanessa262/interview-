@@ -1,0 +1,7 @@
+from,to,weight,duration,relationship,
+Ego,Leonie,4,3,2,
+Ego,Alessia,4,3,6,??
+Ego,Lea,4,2,9,??
+Ego,Matej,4,2,9,
+Leonie,Lea,2,2,9,
+Alessia ,Matej,2,1,9,
